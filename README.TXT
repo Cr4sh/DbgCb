@@ -17,6 +17,7 @@ Engine for communication with remote kernel debugger (WinDBG, KD) from drivers o
 ./_Examples/dbgcb_app.exe - Sample user mode application
 
 Engine working scheme: ./dbgcb_scheme.png
+Engine with test driver (dbgcb_drv.sys): ./dbgcb_in_work.png
 
 
   Currently supported functions (see ./common/dbgcb_api.h):
